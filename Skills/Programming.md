@@ -1,15 +1,15 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value: 🎓 known
+  - identifier 🎓 known
+  - variable 🎓 known 
+  - constant 🎓 known 
   - scalar
   - literal
   - expression
   - heap
-  - function
+  - function 👂 heard
   - procedure
   - method
   - class
@@ -30,7 +30,7 @@
   - module
   - call stack
 - Functions
-  - signature
+  - signature 👂 heard
   - argument
   - parameter
   - pure function
@@ -53,7 +53,7 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array 👂 heard
   - structure
   - record
   - enum
@@ -78,17 +78,17 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler 👂 heard
   - transpiler
   - linter
   - polyfill
   - debugger
   - garbage collection
-  - refactoring
+  - refactoring 👂 heard
   - code review
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm 👂 heard
   - magic numbers
   - hardcode
   - complexity
@@ -103,4 +103,4 @@
   - return early
   - unittest
   - git
-  - github
+  - github 👂 heard

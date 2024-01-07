@@ -41,10 +41,10 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
+  - if 🎓 known
+  - while 🎓 known
   - do..while
-  - for
+  - for 🎓 known  
   - for..in
   - for..of
   - for await
@@ -56,7 +56,7 @@
   - label
   - try..catch
   - switch
-  - class
+  - class 👂 heard 
   - new Error
   - with
 - Functions
@@ -66,14 +66,14 @@
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array 👂 heard
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
   - undefined
-  - null
+  - null 👂 heard 
   - Proxy
   - weak collections
   - timers
