@@ -10,6 +10,15 @@
   - expression
   - heap
   - function: 🖐️ used
+  - value: 🎓 known
+  - identifier 🎓 known
+  - variable 🎓 known 
+  - constant 🎓 known 
+  - scalar
+  - literal
+  - expression
+  - heap
+  - function 👂 heard
   - procedure
   - method:  👂 heard 
   - class: 👂 heard
@@ -89,6 +98,11 @@
   - antipatterns:  👂 heard
   - paradigm: 👂 heard
   - algorithm: 👂 heard 
+  - refactoring 👂 heard
+  - code review
+  - antipatterns
+  - paradigm
+  - algorithm 👂 heard
   - magic numbers
   - hardcode: 👂 heard 
   - complexity

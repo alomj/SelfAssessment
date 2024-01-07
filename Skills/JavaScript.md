@@ -57,6 +57,22 @@
   - try..catch
   - switch: 🖐️ used  
   - class: 👂 heard
+  - if 🎓 known
+  - while 🎓 known
+  - do..while
+  - for 🎓 known  
+  - for..in
+  - for..of
+  - for await
+  - throw
+  - break
+  - continue
+  - import
+  - export
+  - label
+  - try..catch
+  - switch
+  - class 👂 heard 
   - new Error
   - with
 - Functions
@@ -74,6 +90,7 @@
   - Set
   - undefined
   - null: 👂 heard
+  - null 👂 heard 
   - Proxy
   - weak collections
   - timers
