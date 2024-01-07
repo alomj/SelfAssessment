@@ -1,11 +1,11 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
+  - Object 🎓 known
+  - this 
+  - arrow function 👂 heard
+  - async function 👂 heard
+  - call 👂 heard
   - bind
   - apply
   - instanceof
@@ -30,9 +30,9 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void 🖐️ used
   - yield
-  - await
+  - await 👂 heard
   - template literal
   - strict mode
   - delete
@@ -41,39 +41,39 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 👂 heard
+  - for 🖐️ used
+  - for..in  🎓 known
+  - for..of 🎓 known
+  - for await 🎓 known
+  - throw 🖐️ used 
+  - break 🖐️ used  
+  - continue 🖐️ used 
+  - import  👂 heard
+  - export 👂 heard
+  - label 
   - try..catch
-  - switch
-  - class
+  - switch 🖐️ used  
+  - class 👂 heard
   - new Error
   - with
 - Functions
   - function declaration
   - function expression
-  - return
+  - return 🖐️ used 
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array 🖐️ used 
   - mixin
   - extend
   - typed arrays
-  - Map
+  - Map 🖐️ used 
   - Set
   - undefined
-  - null
+  - null 👂 heard
   - Proxy
   - weak collections
   - timers
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js 👂 heard
   - npm
   - prettier
   - MDN
