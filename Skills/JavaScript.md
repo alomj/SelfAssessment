@@ -5,7 +5,7 @@
   - this: 🖐️ used
   - arrow function: 🖐️ used 
   - async function: 👂 heard
-  - call
+  - call: 👂 heard
   - bind: 👂 heard
   - apply
   - instanceof
@@ -59,7 +59,7 @@
   - class 🖐️ used
   - new Error
   - with
-- Functions 🖐️ used
+- Functions 
   - function declaration 🖐️ used
   - function expression 🖐️ used
   - return 🖐️ used
