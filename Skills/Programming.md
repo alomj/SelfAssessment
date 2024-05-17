@@ -1,6 +1,15 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar 
+  - literal
+  - expression
+  - heap
+  - function: 🖐️ used
   - value: 🎓 known
   - identifier 🎓 known
   - variable 🎓 known 
@@ -11,26 +20,26 @@
   - heap
   - function 👂 heard
   - procedure
-  - method
-  - class
+  - method:  👂 heard 
+  - class: 👂 heard
   - prototype
   - event
-  - type
+  - type: 👂 heard 
   - primitive types
   - reference types
-  - flag
+  - flag: 👂 heard 
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
+  - code block: 👂 heard 
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
+  - assignment 
+  - regular expression:  👂 heard 
   - interface
   - contract
   - module
   - call stack
 - Functions
-  - signature 👂 heard
+  - signature: 👂 heard
   - argument
   - parameter
   - pure function
@@ -40,10 +49,10 @@
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
+  - recursion: 👂 heard
+  - callback: 👂 heard
   - listener
-  - compose
+  - compose: 👂 heard 
   - pipe
   - memoize
   - wrapper
@@ -53,54 +62,59 @@
   - generator
   - coroutine
 - Data structures
-  - array 👂 heard
+  - array: 🖐️ used
   - structure
-  - record
+  - record: 👂 heard 
   - enum
   - instance
-  - object
-  - class
+  - object: 👂 heard 
+  - class: 👂 heard 
   - collection
   - set
-  - hash table
-  - linked list
+  - hash table: 👂 heard
+  - linked list: 👂 heard
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
+  - queue: 👂 heard 
+  - stack:  👂 heard 
   - deque
-  - tree
-  - graph
-  - iterator
+  - tree: 👂 heard
+  - graph: 👂 heard 
+  - iterator: 👂 heard
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler 👂 heard
+  - compiler: 👂 heard
   - transpiler
   - linter
   - polyfill
   - debugger
   - garbage collection
+  - refactoring: 👂 heard
+  - code review: 👂 heard
+  - antipatterns:  👂 heard
+  - paradigm: 👂 heard
+  - algorithm: 👂 heard 
   - refactoring 👂 heard
   - code review
   - antipatterns
   - paradigm
   - algorithm 👂 heard
   - magic numbers
-  - hardcode
+  - hardcode: 👂 heard 
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti 
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 👂 heard
   - unreachable code
-  - duplicate code
+  - duplicate code: 👂 heard 
   - exception
   - return early
   - unittest
-  - git
-  - github 👂 heard
+  - git: 👂 heard
+  - github: 👂 heard 
