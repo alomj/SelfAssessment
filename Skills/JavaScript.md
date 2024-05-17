@@ -1,23 +1,23 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used 
+  - async function: 👂 heard
   - call
-  - bind
+  - bind: 👂 heard
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 🖐️ used
   - destructuring
   - generator
-  - iterator
+  - iterator: 🖐️ used
   - async generator
   - async iterator
-  - chaining
+  - chaining: 👂 heard
   - optional chaining
   - IIFE
   - global
@@ -26,64 +26,64 @@
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators: 🖐️ used 
+  - logical operators: 🖐️ used 
+  - bitwise operators: 🖐️ used 
+  - ternary operator: 🖐️ used 
+  - void: 🖐️ used 
   - yield
-  - await
+  - await: 👂 heard
   - template literal
-  - strict mode
+  - strict mode: 🖐️ used 
   - delete
   - in
   - super
-  - Symbol
+  - Symbol: 🖐️ used
   - Reflect
 - Statements
   - if 🎓 known
   - while 🎓 known
   - do..while
   - for 🎓 known  
-  - for..in
-  - for..of
+  - for..in : 
+  - for..of: 🖐️ used
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - throw 
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 👂 heard
+  - export 👂 heard
   - label
   - try..catch
-  - switch
-  - class 👂 heard 
+  - switch: 🖐️ used
+  - class 🖐️ used
   - new Error
   - with
-- Functions
-  - function declaration
-  - function expression
-  - return
+- Functions 🖐️ used
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array 👂 heard
+  - Array: 🖐️ used
   - mixin
   - extend
   - typed arrays
-  - Map
+  - Map: 🖐️ used
   - Set
-  - undefined
-  - null 👂 heard 
+  - undefined: 🖐️ used
+  - null: 🖐️ used
   - Proxy
   - weak collections
   - timers
-  - EventEmitter
+  - EventEmitter 👂 heard
   - RegExp
   - Date
   - BigInt
 - Infrastructure
-  - V8
-  - Node.js
+  - V8: 🖐️ used
+  - Node.js: 🖐️ used
   - npm
-  - prettier
+  - prettier: 🖐️ used
   - MDN
