@@ -1,10 +1,10 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🎓 known
-  - identifier 🎓 known
-  - variable 🎓 known 
-  - constant 🎓 known 
+  - value: 🙋 explained
+  - identifier 🙋 explained
+  - variable 🙋 explained
+  - constant 🙋 explained
   - scalar 
   - literal: 🖐️ used
   - expression: 🖐️ used
