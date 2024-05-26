@@ -13,7 +13,7 @@
   - ...rest
   - typeof: 🖐️ used
   - destructuring
-  - generator
+  - generator: 🖐️ used 
   - iterator: 🖐️ used
   - async generator
   - async iterator
@@ -52,9 +52,9 @@
   - break: 🖐️ used
   - continue: 🖐️ used
   - import: 👂 heard
-  - export 👂 heard
+  - export: 👂 heard
   - label
-  - try..catch
+  - try..catch 👂 heard
   - switch: 🖐️ used
   - class 🖐️ used
   - new Error
