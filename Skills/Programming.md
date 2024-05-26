@@ -78,7 +78,7 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler 👂 heard
+  - compiler: 👂 heard
   - transpiler
   - linter
   - polyfill
@@ -88,7 +88,7 @@
   - code review: 👂 heard
   - antipatterns: 🎓 known
   - paradigm: 👂 heard
-  - algorithm 👂 heard
+  - algorithm: 👂 heard
   - magic numbers: 🎓 known
   - hardcode: 🎓 known
   - complexity:
@@ -97,10 +97,10 @@
   - silver bullet
   - not invented here
   - dead code: 🎓 known
-  - unreachable code
-  - duplicate code
-  - exception
+  - unreachable code:  👂 heard
+  - duplicate code:  👂 heard
+  - exception:  👂 heard
   - return early
-  - unittest
+  - unittest: 👂 heard
   - git: 🖐️ used
   - github: 🖐️ used
