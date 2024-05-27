@@ -30,7 +30,7 @@
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance: 
+  - Inheritance: 👂 heard
   - Parent class
   - Polymorphism: 👂 heard
   - Abstract class
