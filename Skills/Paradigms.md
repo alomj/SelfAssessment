@@ -26,7 +26,7 @@
   - Static method
   - Method: 🖐️ used
   - Async method
-  - Getters, Setters
+  - Getters, Setters:  🖐️ used
   - Public fields
   - Private fields
   - Field declarations
@@ -36,11 +36,11 @@
   - Abstract class
   - Interface
   - Encapsulation: 🖐️ used
-  - Hidden class
+  - Hidden class: 👂 heard
   - Object form
   - instance
   - Introspection
-  - Reflection
+  - Reflection: 👂 heard
 - Patterns
   - Singleton
   - Factory Method
